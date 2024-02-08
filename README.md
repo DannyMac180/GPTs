@@ -14,6 +14,6 @@ Guiding beings in Buddhist principles and practices.
 
 ### ⚙️ Meta-Prompt Machine
 
-The Meta-Prompt Machine is a GPT that generates high quality prompts for you. Describe the context and objective and Meta-Prompt Machine will generate the best prompt for you.
+The Meta-Prompt Machine is a GPT that generates high quality prompts for you. Describe the context and objective and Meta-Prompt Machine will generate the best prompt for your task.
 
 [Try it out here](https://chat.openai.com/g/g-6iKS9bHi7-meta-prompt-machine)
