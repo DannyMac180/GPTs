@@ -4,9 +4,7 @@
 
 ---
 
-### BuddhaBot 🪷
-
-![GPT-Icon](https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png)
+### ![GPT-Icon](https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png) BuddhaBot
 
 The GPT-3 Creative Writer is an advanced text generator capable of producing creative and compelling narratives, poems, and stories. It leverages OpenAI's GPT-3 to understand context and generate content that's both original and engaging.
 
