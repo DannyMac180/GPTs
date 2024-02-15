@@ -17,3 +17,11 @@ Guiding beings in Buddhist principles and practices.
 The Meta-Prompt Machine is a GPT that generates high quality prompts for you. Describe the context and objective and Meta-Prompt Machine will generate the best prompt for your task.
 
 [Try it out here](https://chat.openai.com/g/g-6iKS9bHi7-meta-prompt-machine)
+
+---
+
+### ䷸ I Ching - The Bot of Changes
+
+The GPTs version of the I Ching Oracle
+
+[Try it out here](https://chat.openai.com/g/g-et7aH85lr-i-ching-the-bot-of-changes)
